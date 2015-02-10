@@ -1,0 +1,17 @@
+<div id='quiz-container'></div>
+
+<link rel='stylesheet' href='css/styles.css' />
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src='js/jquery.jquizzy-min.js'></script>
+	 <script src="js/completeQuiz.js"></script>
+	 <script src='init.js'></script>
+	 
+	 
+<script>
+ 
+ $('#quiz-container').jquizzy({
+			questions: init.questions, 
+			//resultComments: init.resultComments,
+			//twitterStatus: 'Woo! I got {score} on the quiz. Try it! http://bit.ly/linky',
+		});
+ </script>
