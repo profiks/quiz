@@ -1,8 +1,8 @@
 var init = { 
      'questions': [ 
        {
-           'question': 'jQuery is a...',
-           'answers': ['JavaScript library','Ruby Gem','PHP Framework','None of the above'],
+           'question': 'jQfgfgfuery is a...',
+           'answers': ['JavaScript lffibrary','Ruby Gem','PHP Framework','None of the above'],
             'correctAnswer': 1
        },
        {
