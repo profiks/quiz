@@ -153,10 +153,11 @@
 	 height: 20px;
   color: #4c4c4c;
   background: #f6f6f6;
-  background: -webkit-gradient(linear, left top, left bottom, from(#f6f6f6), to(#d4d4d4));
-  background: -webkit-linear-gradient(#f6f6f6, #d4d4d4);
-  background-image: -moz-linear-gradient(top, #f6f6f6, #d4d4d4);
-  background-image: -moz-gradient(top, #f6f6f6, #d4d4d4);
+       
+  background: -webkit-gradient(linear, left top, left bottom, from(#0061aa), to(#b6f9ff));
+  background: -webkit-linear-gradient(#0061aa, #b6f9ff);
+  background-image: -moz-linear-gradient(top, #0061aa, #b6f9ff);
+  background-image: -moz-gradient(top, #0061aa, #b6f9ff);
  }
 
 .main-quiz-holder .result-keeper {

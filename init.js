@@ -1,8 +1,8 @@
 var init = { 
      'questions': [ 
        {
-           'question': 'jQfgfgfuery is a...',
-           'answers': ['JavaScript lffibrary','Ruby Gem','PHP Framework','None of the above'],
+           'question': 'jQuery is a...',
+           'answers': ['JavaScript library','Ruby Gem','PHP Framework','None of the above'],
             'correctAnswer': 1
        },
        {
@@ -13,16 +13,10 @@ var init = {
            'answers': ['Eh','/Sigh','What?','Whatever'],
 			  'correctAnswer': 4
        },
-     ],
-	  'resultComments' :  
-	  {
-            perfect: 'Albus, is that you?',
-            excellent: 'Outstanding, noble sir!',
-            good: 'Exceeds expectations!',
-            average: 'Acceptable. For a muggle.',
-            bad: 'Well, that was poor.',
-            poor: 'Dreadful!',
-            worst: 'For shame, troll!'
-	  }
-
+         {
+           'question': 'Mehdfdfdfd stands for..',
+           'answers': ['Eh','/Sigdffdfh','dfdfWhat?','Whdfdfatever'],
+			  'correctAnswer': 4
+       },
+     ]
  };
