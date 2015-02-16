@@ -20,7 +20,7 @@
         };
         var config = $.extend(defaults, settings);
         if (config.questions === null) {
-            $(this).html('<div class="intro-container slide-container"><h2 class="qTitle">Failed to parse questions.</h2></div>');
+            $(this).html('<div class="intro-container slide-container"><h2 class="qTitle">No questions</h2></div>');
             return
         }
         var superContainer = $(this),
